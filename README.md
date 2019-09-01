@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-You can use the [editor on GitHub](https://github.com/bire2009/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title>my name ali</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+  <h1>My CV</h1>
+  <img height="250px" width="250"
+  src="https://i.redd.it/01mzef8cjtx01.jpg">
+  <hr>
+  <h1>Personal Details</h1>
+  <table>
+   <tr>
+     <td></td>
+   </tr>
+   <table>
+     <tr>
+       <td>Name:</td>
+       <td>Ali Ahmed Hassan</td>
+     </tr>
+     <tr>
+       <td>Date of birth:</td>
+       <td>1990</td>
+     </tr>
+     <tr>
+       <td>Marital Status:</td>
+      <td> Single</td>
+     </tr>
+     <tr>
+       <td>ID:</td>
+       <td>852116</td>
+     </tr>
+   </table>
+</table>
 
-### Markdown
+  <hr size='2'>
+  <h1>Education Background</h1>
+  <table>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>2012-2015</td>
+            <td>Ifo Secondary School</td>
+          </tr>
+          <tr>
+            <td>2007-2012</td>
+            <td>Horyaal Primary School</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <hr size='3'>
+  <h1>Short Courses</h1>
+  <table>
+    <tr>
+      <td>2010-2014</td>
+      <td>Web developement</td>
+    </tr>
+    <tr>
+      <td>2014-2016</td>
+      <td>Digital Marketing</td>
+    </tr>
+    <tr>
+      <td>2008-2009</td>
+      <td>Upper Intermediate course</td>
+    </tr>
+    <tr>
+      <td>2010-2011</td>
+      <td>Advance Course</td>
+    </tr>
+  </table>
+  <hr>
+  <h1>Hobbies</h1>
+  <ul>
+    <li>Football</li>
+    <li>Movies</li>
+    <li>Swimming</li>
+  </ul>
+  <hr size='2'>
+  <h1>Refrences</h1>
+  <ul>
+    <li>Sam Okello</li>
+    <li>0714121478</li>
+    <li>Sam Ogolla</li>
+    <li>0754236584</li>
+    <li>Ahmed Feysal</li>
+    <li>0723659807</li>
+  </ul>
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bire2009/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
